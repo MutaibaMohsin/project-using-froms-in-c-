@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Project.BL.employeeBL">
+    <Position X="23.25" Y="19" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AABIAAAACAAAAAAAACAAAAIgAAACAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>BL\employeeBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.BL.ingredientsBL">
+    <Position X="9.75" Y="5.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAIAEAAAABABAAAAAQAIAAAAAAAAAg=</HashCode>
+      <FileName>BL\ingredientsBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.BL.MyUser">
+    <Position X="13.75" Y="9.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAACAAAAAgAAQAAAAMAAIA=</HashCode>
+      <FileName>BL\MyUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.BL.orderBL">
+    <Position X="17.75" Y="8.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAQAQABAAAAAQAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>BL\orderBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.BL.productBL">
+    <Position X="10.5" Y="17" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAgAABIAAAACAEAAAABAAAAAAACCQQAAkAEAAA=</HashCode>
+      <FileName>BL\productBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.BL.recommendBL">
+    <Position X="18" Y="12.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAIAAAAAAIAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>BL\recommendBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.DL.employeeDL">
+    <Position X="24" Y="24.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>IAgAAAAIAABAAAAAAAAAAAAAAgAAABAAAAAAQAAgAAA=</HashCode>
+      <FileName>DL\employeeDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.DL.ingredientDL">
+    <Position X="9.5" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAACAAAAAkBABAAAQABAACAA=</HashCode>
+      <FileName>DL\ingredientDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.DL.MyUserDL">
+    <Position X="6" Y="9" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AQCAGAACAAAAAAAAAAAQAAAAAAAAAAAKAAAAAAIAAAA=</HashCode>
+      <FileName>DL\MyUserDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.DL.orderDL">
+    <Position X="23" Y="10" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAASAAAAAAAAAAAAAAAQAAAIEAg=</HashCode>
+      <FileName>DL\orderDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.DL.productDL">
+    <Position X="5.5" Y="24" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAQAAUAABgBAAAAAACAAAA=</HashCode>
+      <FileName>DL\productDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.DL.recommendDL">
+    <Position X="21.25" Y="14" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACQAAAAgAAAAAAIQAAAAAAAAAg=</HashCode>
+      <FileName>DL\recommendDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.DL.remarkDL">
+    <Position X="17.75" Y="20" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAgQAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>DL\remarkDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.Validator.employeeValidation">
+    <Position X="27.75" Y="21.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAI=</HashCode>
+      <FileName>Validator\employeeValidation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.Validator.ingredientValidation">
+    <Position X="18" Y="2.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Validator\ingredientValidation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.Validator.orderValidation">
+    <Position X="20" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAI=</HashCode>
+      <FileName>Validator\orderValidation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.Validator.productsValidator">
+    <Position X="9.5" Y="24.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Validator\productsValidator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frmAdminMenu">
+    <Position X="36" Y="10.5" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>gCwACEgEAHIIRAAAQAKAEgACCgAhAQCQECEgEAAJARA=</HashCode>
+      <FileName>frm\AdminMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frmEditUser">
+    <Position X="0.75" Y="10" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAASACAAAAAAAAKAAEgCAAAgAAEAIUIAEACAAAA=</HashCode>
+      <FileName>frm\EditUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frmLoginPage">
+    <Position X="36.75" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAASACAAAgEAAASAAAAiEAAgAAAAIAQEAAAAAAA=</HashCode>
+      <FileName>frm\Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frmEditProduct">
+    <Position X="5" Y="32" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>FiAAAAAgACAAAIAAAAKAAAgCABAAAACAAUAkEBAAYAA=</HashCode>
+      <FileName>frm\frmEditProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frmforgetpassword">
+    <Position X="36.5" Y="5.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAASACAAAAAAAACAACgCAAAgAAAAIAEAEAAAAAA=</HashCode>
+      <FileName>frm\frmforgetpassword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frmProductView">
+    <Position X="3.25" Y="17" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAABACAAAAAAAACAQAgCBAEAAAACECAAEAAAAAA=</HashCode>
+      <FileName>frm\frmProductView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frmViewUser">
+    <Position X="3.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACEAAABACAAAAAAAACAEQgCAAEAAAQCAAAAEAAAAAA=</HashCode>
+      <FileName>frm\ViewUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm.frmAddEmployee">
+    <Position X="34.5" Y="23" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>CgAIAEBAAiAAAAACAACAABgCAAEIBAAAIAAAEAAAAAA=</HashCode>
+      <FileName>frm\frmAddEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm.frmAddProduct">
+    <Position X="11.25" Y="28.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>EiAIAAAgACAAAIAAAACAAAgCABAIAACBAAAkEAAAQAA=</HashCode>
+      <FileName>frm\frmAddProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm.frmAddUser">
+    <Position X="8.75" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAASACAAAEAAAACAAAgCAAAoAAEgIAIAEAAAAAA=</HashCode>
+      <FileName>frm\frmAddUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm.frmCustomerMenu">
+    <Position X="42.25" Y="5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAABACIAQAAAAgCAAAACCAAEEAAAAAAICAABAAA=</HashCode>
+      <FileName>frm\frmCustomerMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm.frmEmployeeEdit">
+    <Position X="20.25" Y="27.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>CgAAAEBBAiAABAACAAKAABgCAAAABAAAIUAAEAAAAAA=</HashCode>
+      <FileName>frm\frmEmployeeEdit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm.frmEmployeeView">
+    <Position X="29.25" Y="26.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAABACACAAAAAAKAAAgCgAEAAAACAAAAEAAAAAA=</HashCode>
+      <FileName>frm\frmEmployeeView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm.frmFindTheHighest">
+    <Position X="0.5" Y="22.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAIBAAAACAAAgCAAAAAAAAAAAAEAAAADA=</HashCode>
+      <FileName>frm\frmFindTheHighest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm.frmIngredientEdit">
+    <Position X="13.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAICAAAAAAAAKCQggCBAAAAAAQAUAEEAIABAI=</HashCode>
+      <FileName>frm\frmIngredientEdit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm.frmIngredientView">
+    <Position X="1.75" Y="5.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAgCAAAAACAAAgCAAAAAAACAgAAEAAEBAA=</HashCode>
+      <FileName>frm\frmIngredientView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm.frmInStock">
+    <Position X="5.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAABACAAAwCAAAAAAAAAAAAUAAAAAA=</HashCode>
+      <FileName>frm\frmInStock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm.frmMainPage">
+    <Position X="42" Y="0.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAGAAAAAAAACAAgACCAAAAAAAACAgAAglAAA=</HashCode>
+      <FileName>frm\frmMainPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm.frmOrderAdd">
+    <Position X="23.25" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AgABAgAABCAABBUAAACAAAgiAAAAgBAAEFAAEAAAAAA=</HashCode>
+      <FileName>frm\frmOrderAdd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm.frmOrderEdit">
+    <Position X="26.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABBCAAABJAAgCAAAgCAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>frm\frmOrderEdit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm.frmOutOfStock">
+    <Position X="1.75" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAACAAAAAQAAKAAAgCAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>frm\frmOutOfStock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm.frmPlaceOrder">
+    <Position X="27.5" Y="8" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAABAgAAEKAAjAAAAACAAAgyAAAAgBAAEAAAEAAAAAA=</HashCode>
+      <FileName>frm\frmPlaceOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm.frmRemarks">
+    <Position X="13" Y="20.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>QEAAAAAAgCAAAAAAAACAAAgCAAAAAIAAAUAAEAAAAAA=</HashCode>
+      <FileName>frm\frmRemarks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm.frmSortLowToHigh">
+    <Position X="0.5" Y="18.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAKAAAgCAAAAAAIAAAAAEAAAACA=</HashCode>
+      <FileName>frm\frmSortLowToHigh.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm.frmViewMenu">
+    <Position X="0.5" Y="28.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACAAAAAAAACAAAgCAAAAAAAAAAAAEAEBAAA=</HashCode>
+      <FileName>frm\frmViewMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm.frmViewOrderDetails">
+    <Position X="28.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAACAAABAAAACAACgCACAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>frm\frmViewOrderDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm.frmViewRecommend">
+    <Position X="26" Y="15.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAASAAAAAAAACAAQACAAAiAAAAAAAAAAgAAEA=</HashCode>
+      <FileName>frm\frmViewRecommend.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.frm.frmViewRemark">
+    <Position X="16.5" Y="23.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAACAAAAAAAACAAAgCAAAAAAAAACQAEAAAAAA=</HashCode>
+      <FileName>frm\frmViewRemark.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project.BL.remarkBL">
+    <Position X="14.25" Y="14.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>BL\remarkBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
